@@ -3,3 +3,4 @@ vless://532627c6-9ee0-41c7-a208-eec54007b194@mylo.kyvps.ga:13272?type=tcp&securi
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJKYWRpZCIsCiAgImFkZCI6ICJteWxvLmt5dnBzLmdhIiwKICAicG9ydCI6IDIwODcsCiAgImlkIjogIjE0ODk5Y2U4LWM3NzAtNGNlZS1kYTUwLTU0NTMzMjE0YzAyZSIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogInRscyIKfQ==
 vless://b18508ab-26d6-4aef-bd6e-7ede737b518e@mylo.kyvps.ga:30450?type=ws&security=none&path=%2F#Bahareh-iran
 vless://6b55f32e-c401-41d1-c293-3d833a884f17@mylo.kyvps.ga:8080?type=ws&security=none&path=%2F#Cdn
+vless://6b55f32e-c401-41d1-c293-3d833a884f17@mylo.kyvps.ga:8080?type=ws&security=none&path=%2F#Cdn
